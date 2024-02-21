@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: 40c761a71b831094fa8c0610955ab060
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30e1562343ea71438a5838b84ea9520
+      internalID: -864682936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 421.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f2fbb62baa16f479712fd3e423322f
+      internalID: 1237882356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 421.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9d3d63e3471b4792699a93274867f
+      internalID: -778772700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 421.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed2e7f808fb514cb4fd54f856ab71d
+      internalID: -955100425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 421.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6187cbb744e20ac40b1a2ac063e6700a
+      internalID: -613555060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 421.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ebb92ef4535f3429c7778d12978f71
+      internalID: 1700271138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 421.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58316f3efe20dd4d8ea344f170c01cc
+      internalID: -1848910900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa59b3921c1c741869a878b225cac5
+      internalID: -1638567363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 361.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585078728d8c9114ea3a385b6941a1b7
+      internalID: -1747021831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 361.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46a8564dd4cc4a4b9742b95acc22c8d
+      internalID: 542073710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 361.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e9fef0a1d1cef4ba7f423657d96183
+      internalID: -1217903064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 361.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de0306a3d7d6ec409e400a208fb7a4f
+      internalID: -2140340734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 361.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7909fc93ecaed6544b97769f297c14d6
+      internalID: 1159540355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 361.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db90d7c39f6bfd4493f58eadf4f83aa
+      internalID: -1655060481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115752031e3ac9445889529ebdfa3ad8
+      internalID: -796259538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 301.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e8b05ad05792d4c8e0bef05f85dc0b
+      internalID: 1282510727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 301.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e2cf038839184198d50025ad3ca87
+      internalID: 441226822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 301.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9f1c15f661b66468559dad394887ce
+      internalID: 1625011531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 301.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95790aef7b8d744c83c29f0c66485c4
+      internalID: -170935341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 301.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3c880412fe2e44fa59ed852648e3ac
+      internalID: 549819940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 301.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3424e02ca7bd9c840a6c7e27e73dd7b2
+      internalID: -1355242245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf43a980d03b1064eb8e69fa8022cfed
+      internalID: -764315220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 241.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111792fcca5b07548af732ed09471cae
+      internalID: 1925055489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 241.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2495e260c0f7a449e067cc311d728c
+      internalID: -193358042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36164a5e3aa559459a49240b9f2c08c
+      internalID: -781163763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 181.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eebb9e2201446546b1ea04024e1c64a
+      internalID: 1599614366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 181.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5363725baf41fee44a92acf3508d5b3d
+      internalID: -1748887318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 181.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e467f0e138b870249b5c4e66e772c4e2
+      internalID: -758767018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 181.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8125b99747c5614418c8b4878c6c9a35
+      internalID: -1763526927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 181.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68a8add1db5f1741a55c9be274fc692
+      internalID: 88478761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 181.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9645fc943c901a49be178c258a9678c
+      internalID: 1272295214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9eb43b1b6705540a0d59a04d04bb14
+      internalID: 843595771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 121.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5b06c645679c446b01d7e2607a3cac
+      internalID: 492194485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 121.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33e146a9a3662e42bcd51be9d03bd4f
+      internalID: -2008510461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 121.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c89407db3db5a54797205775299f1bd
+      internalID: -1594699004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 121.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ba19671041d034cbd41d88a1af3017
+      internalID: 1739286310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 121.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9629405d3ff73c040800f9a198ef5c62
+      internalID: -269256417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 121.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d26f53995a60044941419cccb953d1
+      internalID: 826825879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f1a8b4f2d72ae4c948927dc158c3d2
+      internalID: -1320215410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 61.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b77039bc85fc204987f37361895edc2
+      internalID: -88593875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 61.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e21e40fcb7ef24e82b1c99ba4bc4b2
+      internalID: -17892638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 61.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00879eba02156b408f15d34ad36536b
+      internalID: 1448936043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 61.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddebbdaec6d69a449aa553d831432d7
+      internalID: -1964234056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 61.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548cfae3847154542b966f03eccf2f32
+      internalID: 541806997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 61.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e19a6279beca245a894361b6b4575f
+      internalID: -611944745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da35c07c5953e54a891defebb498799
+      internalID: -2138578784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f47ac86219afb945a94a2063e2190a3
+      internalID: 42874073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca04976d14504c4e97c68a5cc9e1b85
+      internalID: -616010321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1.75
+        width: 74
+        height: 60.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c7907e7e1802e4aaec3018921a244c
+      internalID: -975401369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2
+        width: 74
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5000004, y: 0.47587568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a610478c44263e488f25f9c335a726e
+      internalID: -1611509889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_0: -864682936
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_1: 1237882356
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_10: -1217903064
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_11: -2140340734
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_12: 1159540355
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_13: -1655060481
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_14: -796259538
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_15: 1282510727
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_16: 441226822
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_17: 1625011531
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_18: -170935341
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_19: 549819940
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_2: -778772700
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_20: -1355242245
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_21: -764315220
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_22: 1925055489
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_23: -193358042
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_24: -781163763
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_25: 1599614366
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_26: -1748887318
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_27: -758767018
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_28: -1763526927
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_29: 88478761
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_3: -955100425
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_30: 1272295214
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_31: 843595771
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_32: 492194485
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_33: -2008510461
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_34: -1594699004
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_35: 1739286310
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_36: -269256417
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_37: 826825879
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_38: -1320215410
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_39: -88593875
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_4: -613555060
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_40: -17892638
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_41: 1448936043
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_42: -1964234056
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_43: 541806997
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_44: -611944745
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_45: -2138578784
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_46: 42874073
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_47: -616010321
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_48: -975401369
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_49: -1611509889
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_5: 1700271138
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_6: -1848910900
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_7: -1638567363
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_8: -1747021831
+      DS_DSi_-_Pokemon_Black_White_-_498_Tepig-removebg-preview_9: 542073710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

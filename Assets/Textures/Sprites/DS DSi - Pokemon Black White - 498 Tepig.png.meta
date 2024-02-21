@@ -1,0 +1,1385 @@
+fileFormatVersion: 2
+guid: df565d169d002d245bd28b65ef9c46fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b899be57adcd6fc46a1bf0bd88e29dc4
+      internalID: -1525732349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 427
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f47bf173cabf2448309b6b0e007a1f
+      internalID: 2060985642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 427
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cd6888c87743e4cba576df62f6581c
+      internalID: 1644635530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 427
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921fc20adfba9d24cb40171137ec4c1f
+      internalID: -1581339625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 427
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58640210a0345e849b039339fc3c6183
+      internalID: 561810353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 427
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c9e4efaa2643a4b9b73d1d3871d1f8
+      internalID: 686058037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 427
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e91a2afa8158419170ec4604ad90e
+      internalID: 600723714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116f157ecd4a67941a780cde07c2d8d6
+      internalID: 1942744524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 366
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c4beb7d0a2dc945bc1b98b8c538fef
+      internalID: 1011216508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 366
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90ec87ad06b0184c98086c6396e64b0
+      internalID: -1309015925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 366
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74069329d9aeae459294ce382bb0265
+      internalID: 2087843398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 366
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bcfea2218ac7c4eaeb89c0dd01f068
+      internalID: 708814985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 366
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8415594e52067d34b83158ccb9238a46
+      internalID: 769918753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 366
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f10b10197cadf41820a7fa6c776ef1
+      internalID: -401068802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fbe2b3300e03648b75758837205ac2
+      internalID: -388374623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 305
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530a5c8d97520144e828065c8dab2d27
+      internalID: 1485408310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 305
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be7fffe4e571124ab725a1034a8e505
+      internalID: -52712451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 305
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433368c1b61b6984fa1eb37c59233b41
+      internalID: 846643753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 305
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace53c0081077448ad3c7e75eedc782
+      internalID: -999923378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 305
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3a6cbab93be724997343c198c1a680
+      internalID: 572846244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 305
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11a9e1023145d441b42013f8dafa6c7
+      internalID: 1480821300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3607a5848f38a418859e47229df6bf
+      internalID: -1366055535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 244
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9109c2e3a2b34e74fbe1774d4d7f78c3
+      internalID: 1452956600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 244
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f40f78a06845643b07a0bf714a6069
+      internalID: -743543670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 244
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3974ca298b5ab4c89f25eaad0e7e00
+      internalID: 1561949901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 244
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3825b6d08758d046be75efe1c7d8158
+      internalID: 972703545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 244
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ea5a7a035ebc54a9ec10fa8551616c
+      internalID: -895722659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 244
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646aa12b2bfe79245b83322adca48ca6
+      internalID: -898361816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd112822f933d49ada5df14d489009
+      internalID: 297094359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 183
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2ff40e954d8844993ea605b30b1f69
+      internalID: 748883769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 183
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1c8d5357033ed4e9c1b30b8cb2f2d8
+      internalID: 1432176945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 183
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bb537c777a0ad4eb1c2c852a9771fe
+      internalID: -1162776899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 183
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d741bc4d05d3045bf2f204975ac153
+      internalID: -894923984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 183
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3348bbe47c7fea469d0098df670a6af
+      internalID: -251930582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 183
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be4058b4ebdcd54c82621ffbfa07cf2
+      internalID: -1869097219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4da2c1773d5f214d97ff2c1a739785b
+      internalID: -1540345366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 122
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432e069f82d08ba4697d72b8d0ef778d
+      internalID: 564552463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 122
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee78826ff27d104c8a5ddafd43cc143
+      internalID: 587223277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 122
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3d6df8dcbbe0f4da2dc71e746b3d8e
+      internalID: -1695103715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 122
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715655448c9986b4fa4ad17c5a3a5559
+      internalID: 2076614573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_40
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 122
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf8a7561a3e2174187c50a62226dfaa
+      internalID: 551544656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_41
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 122
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa68748a7557d94f9b3d366f6b05a97
+      internalID: -739347561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeffaec107e8934f84f85d234ce097b
+      internalID: -1650996686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 61
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda4fc20f30415e4b9fdd9f2184346b7
+      internalID: 520774202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 61
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710a000c1509644290aaefc0897d23a
+      internalID: -127335398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 61
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b8270e018872f4e9081a95fbafa567
+      internalID: -1444030636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 61
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b2c17e1296d8142b028e2006a36748
+      internalID: 541827002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_47
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 61
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96437de457c9e4b45a2db020dc853fd6
+      internalID: 236887692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 61
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb088785966dce48889b7e3474e26c3
+      internalID: -59240637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d31940f9a1a9148a2979fd28a6505b
+      internalID: -1785877715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310c5ccea06927e4abdeb14a3d97cdb6
+      internalID: 744131412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2b4f81af4485140ba1ed5029333e80
+      internalID: -1735964153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_52
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7789272310205bf4c9b8840002553e60
+      internalID: 1760620838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0665deb3f1ea00f40af8aa35a36af704
+      internalID: 1348811021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_54
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a82e1bc33cae148b946137d4612d84
+      internalID: 2001215177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 498 Tepig_55
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa81283a0731dec488d2bde8bc50e22c
+      internalID: -713689743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Black White - 498 Tepig_0: -1525732349
+      DS DSi - Pokemon Black White - 498 Tepig_1: 2060985642
+      DS DSi - Pokemon Black White - 498 Tepig_10: 2087843398
+      DS DSi - Pokemon Black White - 498 Tepig_11: 708814985
+      DS DSi - Pokemon Black White - 498 Tepig_12: 769918753
+      DS DSi - Pokemon Black White - 498 Tepig_13: -401068802
+      DS DSi - Pokemon Black White - 498 Tepig_14: -388374623
+      DS DSi - Pokemon Black White - 498 Tepig_15: 1485408310
+      DS DSi - Pokemon Black White - 498 Tepig_16: -52712451
+      DS DSi - Pokemon Black White - 498 Tepig_17: 846643753
+      DS DSi - Pokemon Black White - 498 Tepig_18: -999923378
+      DS DSi - Pokemon Black White - 498 Tepig_19: 572846244
+      DS DSi - Pokemon Black White - 498 Tepig_2: 1644635530
+      DS DSi - Pokemon Black White - 498 Tepig_20: 1480821300
+      DS DSi - Pokemon Black White - 498 Tepig_21: -1366055535
+      DS DSi - Pokemon Black White - 498 Tepig_22: 1452956600
+      DS DSi - Pokemon Black White - 498 Tepig_23: -743543670
+      DS DSi - Pokemon Black White - 498 Tepig_24: 1561949901
+      DS DSi - Pokemon Black White - 498 Tepig_25: 972703545
+      DS DSi - Pokemon Black White - 498 Tepig_26: -895722659
+      DS DSi - Pokemon Black White - 498 Tepig_27: -898361816
+      DS DSi - Pokemon Black White - 498 Tepig_28: 297094359
+      DS DSi - Pokemon Black White - 498 Tepig_29: 748883769
+      DS DSi - Pokemon Black White - 498 Tepig_3: -1581339625
+      DS DSi - Pokemon Black White - 498 Tepig_30: 1432176945
+      DS DSi - Pokemon Black White - 498 Tepig_31: -1162776899
+      DS DSi - Pokemon Black White - 498 Tepig_32: -894923984
+      DS DSi - Pokemon Black White - 498 Tepig_33: -251930582
+      DS DSi - Pokemon Black White - 498 Tepig_34: -1869097219
+      DS DSi - Pokemon Black White - 498 Tepig_35: -1540345366
+      DS DSi - Pokemon Black White - 498 Tepig_36: 564552463
+      DS DSi - Pokemon Black White - 498 Tepig_37: 587223277
+      DS DSi - Pokemon Black White - 498 Tepig_38: -1695103715
+      DS DSi - Pokemon Black White - 498 Tepig_39: 2076614573
+      DS DSi - Pokemon Black White - 498 Tepig_4: 561810353
+      DS DSi - Pokemon Black White - 498 Tepig_40: 551544656
+      DS DSi - Pokemon Black White - 498 Tepig_41: -739347561
+      DS DSi - Pokemon Black White - 498 Tepig_42: -1650996686
+      DS DSi - Pokemon Black White - 498 Tepig_43: 520774202
+      DS DSi - Pokemon Black White - 498 Tepig_44: -127335398
+      DS DSi - Pokemon Black White - 498 Tepig_45: -1444030636
+      DS DSi - Pokemon Black White - 498 Tepig_46: 541827002
+      DS DSi - Pokemon Black White - 498 Tepig_47: 236887692
+      DS DSi - Pokemon Black White - 498 Tepig_48: -59240637
+      DS DSi - Pokemon Black White - 498 Tepig_49: -1785877715
+      DS DSi - Pokemon Black White - 498 Tepig_5: 686058037
+      DS DSi - Pokemon Black White - 498 Tepig_50: 744131412
+      DS DSi - Pokemon Black White - 498 Tepig_51: -1735964153
+      DS DSi - Pokemon Black White - 498 Tepig_52: 1760620838
+      DS DSi - Pokemon Black White - 498 Tepig_53: 1348811021
+      DS DSi - Pokemon Black White - 498 Tepig_54: 2001215177
+      DS DSi - Pokemon Black White - 498 Tepig_55: -713689743
+      DS DSi - Pokemon Black White - 498 Tepig_6: 600723714
+      DS DSi - Pokemon Black White - 498 Tepig_7: 1942744524
+      DS DSi - Pokemon Black White - 498 Tepig_8: 1011216508
+      DS DSi - Pokemon Black White - 498 Tepig_9: -1309015925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
