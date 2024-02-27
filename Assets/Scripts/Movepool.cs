@@ -4,15 +4,28 @@ using UnityEngine;
 
 public class Movepool : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public void Ember()
     {
-        
+        //string type = "Fire"
+
+    }
+    public void Tackle()
+    {
+        //string type = "Normal"
+
+
+    }
+    public void WildCharge()
+    {
+       // string type = "Electric"
+
+
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Protect()
     {
-        
+        //string type = "Normal"
+
+
     }
 }
